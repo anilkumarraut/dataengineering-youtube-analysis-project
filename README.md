@@ -29,6 +29,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img src="architecture.jpeg">
 
 ## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
+I have created a detailed 3+ hour tutorial on this project, where you will execute eve
 
 https://youtu.be/yZKJFKu49Dk
